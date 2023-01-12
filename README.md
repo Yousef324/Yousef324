@@ -1,6 +1,6 @@
 ![MasterHead](https://www.orangedigitalcenters.com:12345/api/v1/odcCountry/EG/616e9dcfacd85b003b99f848/archerblog5-myths-about-embedded-systems-development.jpg)
 
-<h1 align="center">Hi 👋, I'm Yousef Elgohary Abdo</h1>
+<h1 align="center">Hi 👋, I'm Yousef Abdo</h1>
 <h3 align="center">A passionate Embedded and Robotics Software Developer</h3>
 
 - 🌱 I’m currently learning **Embedded Software Engineer**
